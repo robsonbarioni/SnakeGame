@@ -9,7 +9,7 @@ O objetivo era ser o mais objetivo possível, para isso utilizei Html e Javascri
 Execute o Index.html através do Liveserver no VsCode ou métodos similares.
 
 Se bater uma preguiça, deixei o game publicado no Heroku também ^^ !
-https://boiling-everglades-40573.herokuapp.com
+https://boiling-everglades-40573.herokuapp.com/index.html
 
 ## Licença
 
